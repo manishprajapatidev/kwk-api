@@ -3,18 +3,24 @@
 		"title": "When you run update query without where",
 		"slug": "when-you-run-update-query-without-where",
 		"fileType": "video",
-		"fileURL": "https://raw.githubusercontent.com/manishprajapatidev/kwk-api/main/9Qafvoz.webm"
+		"fileURL": "https://raw.githubusercontent.com/manishprajapatidev/kwk-api/main/videos/9Qafvoz.webm"
 	},
 	{
 		"title": "When I ask the boss why he committed to a delivery date without consulting us",
 		"slug": "when-i-ask-the-boss-why-he-committed-to-a-delivery-date-without-consulting-us",
 		"fileType": "video",
-		"fileURL": "https://raw.githubusercontent.com/manishprajapatidev/kwk-api/main/foW0R8p.webm"
+		"fileURL": "https://raw.githubusercontent.com/manishprajapatidev/kwk-api/main/videos/foW0R8p.webm"
 	},
 	{
 		"title": "When I revert my git branch",
 		"slug": "when-i-revert-my-git-branch",
 		"fileType": "video",
-		"fileURL": "https://raw.githubusercontent.com/manishprajapatidev/kwk-api/main/aVIplNn.webm"
+		"fileURL": "https://raw.githubusercontent.com/manishprajapatidev/kwk-api/main/videos/aVIplNn.webm"
+	},
+	{
+		"title": "When the salesperson tries to understand what's being said in a technical meeting",
+		"slug": "when-the-salesperson-tries-to-understand-whats-being-said-in-a-technical-meeting",
+		"fileType": "video",
+		"fileURL": "https://raw.githubusercontent.com/manishprajapatidev/kwk-api/main/videos/wBIHOBA.webm"
 	}
 ]
