@@ -1,7 +1,7 @@
 [
 	{
-		"title": "When you run update query without where",
-		"slug": "when-you-run-update-query-without-where",
+		"title": "When I launch an update query without a where condition",
+		"slug": "when-i-launch-an-update-query-without-a-where-condition",
 		"fileType": "video",
 		"fileURL": "https://raw.githubusercontent.com/manishprajapatidev/kwk-api/main/videos/9Qafvoz.webm"
 	},
@@ -22,5 +22,17 @@
 		"slug": "when-the-salesperson-tries-to-understand-whats-being-said-in-a-technical-meeting",
 		"fileType": "video",
 		"fileURL": "https://raw.githubusercontent.com/manishprajapatidev/kwk-api/main/videos/wBIHOBA.webm"
+	},
+	{
+		"title": "When the sales guy asks me if one of his messed up new feature ideas is technically feasible",
+		"slug": "when-the-sales-guy-asks-me-if-one-of-his-messed-up-new-feature-ideas-is-technically-feasible",
+		"fileType": "video",
+		"fileURL": "https://raw.githubusercontent.com/manishprajapatidev/kwk-api/main/videos/vRB1iF0.webm"
+	},
+	{
+		"title": "Farted in a meeting, everyone thought it was the boss",
+		"slug": "farted-in-a-meeting-everyone-thought-it-was-the-boss",
+		"fileType": "gif",
+		"fileURL": "https://raw.githubusercontent.com/manishprajapatidev/kwk-api/main/gifs/dis4NFi.gif"
 	}
 ]
